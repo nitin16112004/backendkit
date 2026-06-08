@@ -60,7 +60,7 @@
     "bugs": {
         "url": "https://github.com/nitin16112004/backendkit/issues"
     },
-    "homepage": "https://github.com/nitin16112004/backendkit.gitr",
+    "homepage": "https://github.com/nitin16112004/backendkit.git",
     "peerDependencies": {
         "express": "^4.18.0"
     },
